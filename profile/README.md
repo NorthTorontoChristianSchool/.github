@@ -1,0 +1,3 @@
+North Toronto Christian School is a non-semestered private Christian school located in Toronto, Ontario, Canada. The school is a co-educational Christian elementary and high school, not affiliated with any specific church or denomination.
+
+This GitHub page contains some demonstration code and assignments from the computer science classes, as well as other code for finding solutions on math problems.
