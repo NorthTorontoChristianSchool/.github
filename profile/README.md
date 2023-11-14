@@ -9,4 +9,4 @@ So far, some notable works include:
 * Some solutions for CEMC Problem of the Week and CCC
 * AtteNTCS, the school's pilot attendance card scan system by [Felix An](https://www.felixan.ca/)
 
-<font size="1"><i>This description was written by [Felix An](https://www.felixan.ca/).</i></font>
+<font size="1"><i>This description was written by [Felix An](https://www.felixan.ca/), who graduated in June 2021.</i></font>
